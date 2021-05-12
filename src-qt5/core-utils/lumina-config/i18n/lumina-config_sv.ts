@@ -541,7 +541,7 @@
     <message>
         <location filename="../LPlugins.cpp" line="313"/>
         <source>Lock the current desktop session</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås den aktuella skrivbordssessionen</translation>
     </message>
     <message>
         <location filename="../LPlugins.cpp" line="323"/>
@@ -716,7 +716,7 @@
     <message>
         <location filename="../pages/getPage.cpp" line="43"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivbordsbakgrund</translation>
     </message>
     <message>
         <location filename="../pages/getPage.cpp" line="44"/>
@@ -727,7 +727,7 @@
     <message>
         <location filename="../pages/getPage.cpp" line="46"/>
         <source>Autostart</source>
-        <translation type="unfinished"></translation>
+        <translation>Autostart</translation>
     </message>
     <message>
         <location filename="../pages/getPage.cpp" line="47"/>
@@ -782,12 +782,12 @@
     <message>
         <location filename="../pages/getPage.cpp" line="55"/>
         <source>Sound Themeing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud teman</translation>
     </message>
     <message>
         <location filename="../pages/getPage.cpp" line="55"/>
-        <source>Change basic sound settings</source>
-        <translation type="unfinished"></translation>
+        <source>Change grundläggande ljudinställningar</source>
+        <translation>Ändra </translation>
     </message>
     <message>
         <location filename="../pages/getPage.cpp" line="50"/>
@@ -951,67 +951,67 @@
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="608"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="609"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Utveckling</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="610"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Utbildning</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="611"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Spel</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="612"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafik</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="613"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverk</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="614"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontor</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="615"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetenskap</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="616"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="617"/>
         <source>System</source>
-        <translation type="unfinished">System</translation>
+        <translation>System">System</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="618"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="619"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="620"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Oserterat</translation>
     </message>
 </context>
 <context>
@@ -1061,17 +1061,17 @@
     <message>
         <location filename="../mainWindow.cpp" line="132"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../mainWindow.cpp" line="133"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej</translation>
     </message>
     <message>
         <location filename="../mainWindow.cpp" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt">Avbryt</translation>
     </message>
 </context>
 <context>
@@ -1147,12 +1147,12 @@
     <message>
         <location filename="../pages/page_compton.ui" line="32"/>
         <source>Disable Compositing Manager (session restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>unfinished</translation>
     </message>
     <message>
         <location filename="../pages/page_compton.ui" line="39"/>
         <source>Only use compositing with GPU acceleration </source>
-        <translation type="unfinished"></translation>
+        <translation>unfinished</translation>
     </message>
     <message>
         <location filename="../pages/page_compton.cpp" line="37"/>
@@ -1475,7 +1475,7 @@
     <message>
         <location filename="../pages/page_interface_desktop.ui" line="86"/>
         <source>Display Removable Media Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>unfinished</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_desktop.cpp" line="56"/>
@@ -1511,7 +1511,7 @@
     <message>
         <location filename="../pages/page_interface_panels.ui" line="46"/>
         <source>Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.ui" line="96"/>
@@ -1526,38 +1526,38 @@
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="110"/>
         <source>No Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga paneler</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="136"/>
         <source>Custom Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade profiler</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="136"/>
         <source>Copy Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera skärm</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="143"/>
         <source>Apply</source>
-        <translation type="unfinished">Verkställ</translation>
+        <translation>Verkställ">Verkställ</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="144"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="149"/>
         <location filename="../pages/page_interface_panels.cpp" line="204"/>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa profil</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="204"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn:</translation>
     </message>
 </context>
 <context>
@@ -1585,7 +1585,7 @@
     <message>
         <location filename="../pages/page_main.cpp" line="64"/>
         <source>Desktop Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>unfinished</translation>
     </message>
     <message>
         <location filename="../pages/page_main.cpp" line="68"/>
@@ -1686,17 +1686,17 @@
     <message>
         <location filename="../pages/page_session_options.ui" line="55"/>
         <source>Automatically create/remove desktop symlinks for applications that are installed/removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa/ta bort skrivbordssymlänkar automatiskt för applikationer som installeras/tas bort</translation>
     </message>
     <message>
         <location filename="../pages/page_session_options.ui" line="58"/>
         <source>Manage desktop app links</source>
-        <translation type="unfinished"></translation>
+        <translation>Hantera skrivbords applänkar</translation>
     </message>
     <message>
         <location filename="../pages/page_session_options.ui" line="65"/>
         <source>Show application crash data</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa applikationskraschdata</translation>
     </message>
     <message>
         <location filename="../pages/page_session_options.ui" line="74"/>
@@ -1733,7 +1733,7 @@
     <message>
         <location filename="../pages/page_session_options.ui" line="220"/>
         <source>Window Manager</source>
-        <translation type="unfinished">Fönsterhanterare</translation>
+        <translation>Fönsterhanterare">Fönsterhanterare</translation>
     </message>
     <message>
         <location filename="../pages/page_session_options.ui" line="248"/>
@@ -1773,7 +1773,7 @@
     <message>
         <location filename="../pages/page_session_options.cpp" line="60"/>
         <source>Window manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Fönsterhanterare</translation>
     </message>
     <message>
         <location filename="../pages/page_session_options.cpp" line="93"/>
@@ -1921,56 +1921,56 @@
     <message>
         <location filename="../pages/page_soundtheme.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulär</translation>
+        <translation>Formulär">Formulär</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="22"/>
         <location filename="../pages/page_soundtheme.ui" line="67"/>
         <location filename="../pages/page_soundtheme.ui" line="112"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverad</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="36"/>
         <location filename="../pages/page_soundtheme.ui" line="81"/>
         <location filename="../pages/page_soundtheme.ui" line="126"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>unfinished</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="56"/>
         <source>Set Startup Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj starta upp ljud</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="101"/>
         <source>Set Logout Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj logga ut ljud</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="146"/>
         <source>Set Battery Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj batteriljud</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="40"/>
         <source>Sound Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudteman</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="73"/>
         <source>Select Startup Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj starta upp ljud</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="83"/>
         <source>Select Logout Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj logga ut ljud</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="93"/>
         <source>Select Low Battery Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj lågt batteri ljud</translation>
     </message>
 </context>
 <context>
@@ -2110,7 +2110,7 @@
     <message>
         <location filename="../pages/page_wallpaper.cpp" line="156"/>
         <source>Image Directory: %1 valid images</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildkatalog: %1 giltiga bilder</translation>
     </message>
     <message>
         <location filename="../pages/page_wallpaper.cpp" line="176"/>
